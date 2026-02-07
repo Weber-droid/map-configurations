@@ -1,5 +1,4 @@
 import requests
-# import json
 
 def test_geocoding_api(api_key):
     base_url = "https://maps.googleapis.com/maps/api/geocode/json"
